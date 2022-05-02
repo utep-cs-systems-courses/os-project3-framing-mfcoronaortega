@@ -13,6 +13,3 @@ helloClient.py
 * after connecting:
 ** if a delay of n is specified, it sleeps for n seconds (otherwise no sleep)
 ** repeatedly reads from the socket and prints what it rec'd, until EOF
-
-
-

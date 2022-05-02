@@ -30,4 +30,5 @@ Shell
 * C-c C-c - send C-c
 * C-c C-d - send C-d
 
-
+Relevant Lectures:
+March 7
